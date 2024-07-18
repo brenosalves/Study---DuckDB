@@ -3,3 +3,8 @@ pandas
 flask
 polars
 pyarrow
+numpy
+seaborn
+matplotlib
+plotly
+sqlalchemy
